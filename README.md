@@ -1,6 +1,6 @@
 Overview of the Project:
 
-Technologies Used: Node.js, Express.js, MongoDB
+Technologies Used: Node.js, Express.js, MongoDB Frontend: Simple HTML, CSS, and JavaScript 
 
 Image Handling : Implements image uploading through multer and Cloudinary Security Features : JWT-based authentication User authentication and authorization Verification of JWT tokens
 
